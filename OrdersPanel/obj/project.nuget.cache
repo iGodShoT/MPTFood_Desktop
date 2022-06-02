@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "f7PL5clR9atLTpvxrgrADSgYys5UDGy0S1X1bVIh49RLDCMIFwT8O6ZBjc4IEYQRttMSxGsXhgfETaoo5IY0Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GodShoT\\Desktop\\Diplom\\OrdersPanel\\OrdersPanel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GodShoT\\.nuget\\packages\\calcbinding\\2.5.2\\calcbinding.2.5.2.nupkg.sha512",
+    "C:\\Users\\GodShoT\\.nuget\\packages\\communitytoolkit.mvvm\\7.1.2\\communitytoolkit.mvvm.7.1.2.nupkg.sha512",
+    "C:\\Users\\GodShoT\\.nuget\\packages\\dynamicexpresso.core\\2.3.1\\dynamicexpresso.core.2.3.1.nupkg.sha512",
+    "C:\\Users\\GodShoT\\.nuget\\packages\\materialdesigncolors\\2.0.6\\materialdesigncolors.2.0.6.nupkg.sha512",
+    "C:\\Users\\GodShoT\\.nuget\\packages\\materialdesignthemes\\4.5.0\\materialdesignthemes.4.5.0.nupkg.sha512",
+    "C:\\Users\\GodShoT\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\GodShoT\\.nuget\\packages\\mrequesthelper\\1.2.3.4\\mrequesthelper.1.2.3.4.nupkg.sha512",
+    "C:\\Users\\GodShoT\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

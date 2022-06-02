@@ -1,0 +1,176 @@
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.csproj.AssemblyReference.cache
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel_MarkupCompile.cache
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.Settings.ApiSettings.resources
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.csproj.GenerateResource.cache
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.AssemblyInfoInputs.cache
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.AssemblyInfo.cs
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.csproj.CoreCompileInputs.cache
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.exe
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.deps.json
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.runtimeconfig.json
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.runtimeconfig.dev.json
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.dll
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.pdb
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\bin\Debug\net5.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\bin\Debug\net5.0-windows\MRequestHelper.dll
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel_MarkupCompile.lref
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\App.baml
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.g.resources
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.csproj.CopyComplete
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.dll
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\refint\OrdersPanel.dll
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.pdb
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.genruntimeconfig.cache
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\ref\OrdersPanel.dll
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\ProductAddView.g.cs
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\ProductAddView.baml
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\AllOrdersView.g.cs
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\FutureOrdersView.g.cs
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\NowOrdersView.g.cs
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\TabMenuView.g.cs
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\AllOrdersView.baml
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\FutureOrdersView.baml
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\NowOrdersView.baml
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\TabMenuView.baml
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.Settings.AppSettings.resources
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\bin\Debug\net5.0-windows\CalcBinding.dll
+C:\Users\maksi\RiderProjects\Diplom\OrdersPanel\bin\Debug\net5.0-windows\DynamicExpresso.Core.dll
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.exe
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.deps.json
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.runtimeconfig.json
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.runtimeconfig.dev.json
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.dll
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.pdb
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\bin\Debug\net5.0-windows\CalcBinding.dll
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\bin\Debug\net5.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\bin\Debug\net5.0-windows\DynamicExpresso.Core.dll
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\bin\Debug\net5.0-windows\MRequestHelper.dll
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.csproj.AssemblyReference.cache
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\FutureOrdersView.baml
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\App.baml
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\AllOrdersView.g.cs
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\FutureOrdersView.g.cs
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\NowOrdersView.g.cs
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\ProductAddView.g.cs
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\TabMenuView.g.cs
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel_MarkupCompile.cache
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel_MarkupCompile.lref
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\AllOrdersView.baml
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\NowOrdersView.baml
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\ProductAddView.baml
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\TabMenuView.baml
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.g.resources
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.Settings.ApiSettings.resources
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.Settings.AppSettings.resources
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.csproj.GenerateResource.cache
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.AssemblyInfoInputs.cache
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.AssemblyInfo.cs
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.csproj.CopyComplete
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.dll
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\refint\OrdersPanel.dll
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.pdb
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.genruntimeconfig.cache
+C:\Users\maksi\Downloads\Diplom\OrdersPanel\obj\Debug\net5.0-windows\ref\OrdersPanel.dll
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.exe
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.deps.json
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.runtimeconfig.json
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.runtimeconfig.dev.json
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.dll
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.pdb
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\bin\Debug\net5.0-windows\CalcBinding.dll
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\bin\Debug\net5.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\bin\Debug\net5.0-windows\DynamicExpresso.Core.dll
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\bin\Debug\net5.0-windows\MRequestHelper.dll
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.csproj.AssemblyReference.cache
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\FutureOrdersView.baml
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\App.baml
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\AllOrdersView.g.cs
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\FutureOrdersView.g.cs
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\NowOrdersView.g.cs
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\ProductAddView.g.cs
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\TabMenuView.g.cs
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel_MarkupCompile.cache
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel_MarkupCompile.lref
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\AllOrdersView.baml
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\NowOrdersView.baml
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\ProductAddView.baml
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\TabMenuView.baml
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.g.resources
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.Settings.ApiSettings.resources
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.Settings.AppSettings.resources
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.csproj.GenerateResource.cache
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.AssemblyInfoInputs.cache
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.AssemblyInfo.cs
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.csproj.CoreCompileInputs.cache
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.csproj.CopyComplete
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.dll
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\refint\OrdersPanel.dll
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.pdb
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.genruntimeconfig.cache
+C:\Users\GodShoT\Desktop\Новая папка (2)\Diplom\OrdersPanel\obj\Debug\net5.0-windows\ref\OrdersPanel.dll
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.exe
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.deps.json
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.runtimeconfig.json
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.runtimeconfig.dev.json
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.dll
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\bin\Debug\net5.0-windows\OrdersPanel.pdb
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\bin\Debug\net5.0-windows\CalcBinding.dll
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\bin\Debug\net5.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\bin\Debug\net5.0-windows\DynamicExpresso.Core.dll
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\bin\Debug\net5.0-windows\MRequestHelper.dll
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.csproj.AssemblyReference.cache
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\FutureOrdersView.baml
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\App.baml
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\AllOrdersView.g.cs
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\FutureOrdersView.g.cs
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\ProductAddView.g.cs
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\TabMenuView.g.cs
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel_MarkupCompile.cache
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel_MarkupCompile.lref
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\AllOrdersView.baml
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\ProductAddView.baml
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\TabMenuView.baml
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.g.resources
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.Settings.ApiSettings.resources
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.Settings.AppSettings.resources
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.csproj.GenerateResource.cache
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.AssemblyInfoInputs.cache
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.AssemblyInfo.cs
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.csproj.CoreCompileInputs.cache
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.csproj.CopyComplete
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.dll
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\refint\OrdersPanel.dll
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.pdb
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\OrdersPanel.genruntimeconfig.cache
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\ref\OrdersPanel.dll
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\PresentOrdersView.g.cs
+C:\Users\GodShoT\Desktop\Diplom\OrdersPanel\obj\Debug\net5.0-windows\Views\PresentOrdersView.baml
